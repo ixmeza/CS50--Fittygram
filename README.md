@@ -1,6 +1,6 @@
 # Fittygram - iOS 
 
-This is my first fiftygram version for my **CS50x ios track**.
+This is my fiftygram version for the **CS50x ios track**.
 
 <img src="/images/1.png" alt="beforefilter" width="200"/> <img src="/images/2.png" alt="afterfilter" width="200"/><img src="/images/3.png" alt="save" width="200"/> 
 
